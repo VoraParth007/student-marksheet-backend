@@ -44,8 +44,8 @@ This is the complete **Node.js + Express.js + MongoDB** backend for a Student Ma
 
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Parth vora",
+  "email": "parth@example.com",
   "rollNo": "101",
   "marks": {
     "sub1": 80,
@@ -83,8 +83,8 @@ MONGO_URI=your_mongodb_connection_string
 ## 🛠️ Installation & Setup
 
 ```bash
-git clone https://github.com/VoraParth007/student-marksheet.git
-cd student-marksheet
+git clone https://github.com/VoraParth007/student-marksheet-backend.git
+cd student-marksheet-backend
 npm install
 npm start
 ```
