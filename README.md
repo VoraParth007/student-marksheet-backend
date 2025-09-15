@@ -93,7 +93,7 @@ npm start
 
 👨‍💻 Author
 
-Your Name  
+Parth Vora
 Backend Developer  
 🔗 GitHub: https://github.com/VoraParth007
 🔗 LinkedIn: https://www.linkedin.com/in/parth777
